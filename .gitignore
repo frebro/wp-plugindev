@@ -1,0 +1,6 @@
+# Dependencies
+/vendor/
+/wordpress/
+
+# Local config
+/wp-config.php
